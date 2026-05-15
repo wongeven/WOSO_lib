@@ -1,6 +1,11 @@
 # WOSO_lib | 女足知识库
 
+[![ClawHub](https://img.shields.io/badge/ClawHub-woso--lib-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=)](https://clawhub.ai/wongeven/woso-lib)
+[![GitHub](https://img.shields.io/github/stars/wongeven/WOSO_lib?style=social)](https://github.com/wongeven/WOSO_lib)
+
 覆盖 **19本全球女足专著** 精华内容的对话式知识库，支持查阅球员故事、教练哲学、战术分析、职业发展等主题。
+
+🔗 **ClawHub 主页**：https://clawhub.ai/wongeven/woso-lib
 
 ---
 
@@ -78,6 +83,18 @@
 ---
 
 ## 安装方式
+
+### 方式一：通过 ClawHub（推荐）
+
+在 OpenClaw / WorkBuddy 中运行：
+
+```
+openclaw skills install woso-lib
+```
+
+或直接访问 👉 https://clawhub.ai/wongeven/woso-lib 下载安装。
+
+### 方式二：手动安装
 
 1. 下载本仓库 ZIP 包
 2. 在 WorkBuddy 中添加技能 → 上传技能包
