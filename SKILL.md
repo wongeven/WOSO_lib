@@ -21,9 +21,9 @@ shareable: true
 本技能提供对 **19本全球女足经典专著 + 4份权威产业/科学报告** 精华内容的访问能力。
 
 涵盖范围：
-- 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo 等传奇
-- 🇪🇺 **欧洲**：Emma Hayes、Sarina Wiegman、Christine Sinclair、Leah Williamson 等名帅与球星
-- 🌍 **全球**：Marta、孙雯、Beth Mead 等各国代表人物
+- 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo、Julie Ertz 等传奇
+- 🇪🇺 **欧洲**：Emma Hayes、Sarina Wiegman、Christine Sinclair、Leah Williamson、Beth Mead 等名帅与球星
+- 🌍 **全球**：Marta、孙雯 等各国代表人物
 - 🇨🇳 **中国**：韩端、孙雯等中国女足传奇
 - 📊 **产业数据**：球员工作量监控、全球联赛基准报告（FIFA/FIFPRO）
 - 🔬 **运动科学**：月经周期追踪科学共识、运动员月经健康问卷
@@ -32,27 +32,37 @@ shareable: true
 
 ---
 
+## 🎯 适用人群
+
+- **足球爱好者**：了解球员故事、看懂比赛门道
+- **内容创作者**：写作素材、选题参考
+- **研究者**：全球女足发展数据、联赛对比
+- **运动员/教练**：学习顶尖球员经验、运动科学应用
+- **媒体从业者**：报道背景资料、人物素材
+
+---
+
 ## 📖 知识库文件索引
 
-### 美国 / 北美球员自传（10本）
+### 美国 / 北美球员自传（8本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
 | The National Team | Caitlin Murray | `notes/the_national_team_notes.md` | 美国女足内部史，平等薪酬斗争 |
-| A Completely Different Game | Emma Hayes | `notes/emma_hayes_notes.md` | 领导力哲学，"杀死独角兽" |
 | Forward | Abby Wambach | `notes/forward_notes.md` | 成瘾与康复，脆弱的力量 |
 | One Life | Megan Rapinoe | `notes/one_life_notes.md` | 同工同酬，社会活动主义 |
 | Go for the Goal | Mia Hamm | `notes/go_for_the_goal_notes.md` | 技术教学+团队哲学 |
 | When Nobody Was Watching | Carli Lloyd | `notes/carli_lloyd_notes.md` | 16分钟帽子戏法，极致自律 |
 | Solo: A Memoir of Hope | Hope Solo | `notes/solo_notes.md` | 门将的孤独，争议与伟大 |
-| Lioness | Beth Mead | `notes/lioness_notes.md` | 母亲患癌，欧洲杯金靴 |
 | Chase Your Dreams | Julie Ertz | `notes/chase_your_dreams_notes.md` | 年轻球员励志，信仰与坚持 |
 | Raised a Warrior | Susie Petruccelli | `notes/raised_a_warrior_notes.md` | 球员到教练的转型，平权 |
 
-### 欧洲 / 国际球员自传（4本）
+### 欧洲 / 国际人物传记（6本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
+| A Completely Different Game | Emma Hayes | `notes/emma_hayes_notes.md` | 领导力哲学，"杀死独角兽" |
+| Lioness | Beth Mead | `notes/lioness_notes.md` | 母亲患癌，欧洲杯金靴 |
 | Playing the Long Game | Christine Sinclair | `notes/sinclair_notes.md` | 加拿大传奇，奥运金牌，团队高于个人 |
 | What It Takes | Sarina Wiegman | `notes/what_it_takes_notes.md` | 荷兰→英格兰，包容性领导力 |
 | You Have the Power | Leah Williamson | `notes/leah_williamson_notes.md` | 英格兰队长，10条人生法则 |
@@ -163,4 +173,4 @@ shareable: true
 
 ---
 
-*最后更新：2026-05-15 | WOSO_lib v2.1 新增产业/科学报告版*
+*最后更新：2026-05-18 | WOSO_lib v2.2.2 修正教练/球员分类描述*
