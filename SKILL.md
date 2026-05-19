@@ -18,7 +18,7 @@ shareable: true
 
 ## 📚 概述
 
-本技能提供对 **19本全球女足经典专著 + 4份权威产业/科学报告** 精华内容的访问能力。
+本技能提供对 **21本全球女足经典专著 + 4份权威产业/科学报告** 精华内容的访问能力。
 
 涵盖范围：
 - 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo、Julie Ertz 等传奇
@@ -27,6 +27,7 @@ shareable: true
 - 🇨🇳 **中国**：韩端、孙雯等中国女足传奇
 - 📊 **产业数据**：球员工作量监控、全球联赛基准报告（FIFA/FIFPRO）
 - 🔬 **运动科学**：月经周期追踪科学共识、运动员月经健康问卷
+- 🧠 **战术智慧**：Dan Blank Soccer IQ 系列（速度决策、攻防转换）
 
 用户可以通过对话方式询问关于女足历史、球员、教练、战术、运动心理、球员工作量和生理健康等各类话题。
 
@@ -68,12 +69,14 @@ shareable: true
 | You Have the Power | Leah Williamson | `notes/leah_williamson_notes.md` | 英格兰队长，10条人生法则 |
 | Under the Lights | Gwendolyn Oxenham | `notes/under_the_lights_notes.md` | 普通球员生存状态，全球视角 |
 
-### 综合 / 战术 / 历史（5本）
+### 综合 / 战术 / 历史（7本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
 | Soccerwomen | Gemma Clarke | `notes/soccerwomen_notes.md` | 全球女足百科全书，30+人物 |
 | Everything Your Coach Never Told You | Dan Blank | `notes/everything_your_coach_never_told_you_notes.md` | 心智训练，脏活累活 |
+| Soccer IQ Volume 1 | Dan Blank | `notes/soccer_iq_vol1_notes.md` | 速度决策，球员思维入门 |
+| Soccer IQ Volume 2 | Dan Blank | `notes/soccer_iq_vol2_notes.md` | 攻防转换，人数优势创造 |
 | How to Win | Dr. Kate Hays | `notes/how_to_win_notes.md` | 运动心理学，科学训练法 |
 | Champions of Women's Soccer | Ann Killion | `notes/champions_notes.md` | 22位传奇，FIFA梦之队 |
 | 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长 |
@@ -106,6 +109,7 @@ shareable: true
 | 询问**全球女子足球发展/联赛数据/商业化** | `fifa_benchmarking_2024_notes.md` |
 | 询问**月经周期/球员生理/运动医学** | `menstrual_questionnaire_notes.md` + `uefa_menstrual_consensus_notes.md` |
 | 询问**女子足球职业化/工资/合同/联赛治理** | `fifa_benchmarking_2024_notes.md` + `the_national_team_notes.md` |
+| 询问**战术智慧/比赛决策/跑位/压迫** | `soccer_iq_vol1_notes.md` + `soccer_iq_vol2_notes.md` |
 
 ### 按球员
 
@@ -173,4 +177,4 @@ shareable: true
 
 ---
 
-*最后更新：2026-05-18 | WOSO_lib v2.2.2 修正教练/球员分类描述*
+*最后更新：2026-05-19 | WOSO_lib v2.3.0 新增 Dan Blank Soccer IQ 系列（2本）*
