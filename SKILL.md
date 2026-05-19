@@ -182,6 +182,8 @@ disable: false
 
 如需深入学习某本书，建议购买原版支持作者。
 
+**索引内容由 AI 生成，如有勘误，请联系：yifan.f.wang@foxmail.com**
+
 ---
 
-*最后更新：2026-05-19 | WOSO_lib v2.3.0 新增 Dan Blank Soccer IQ 系列（2本）*
+*最后更新：2026-05-19 | WOSO_lib v2.3.1 新增 Dan Blank Soccer IQ 系列（2本）*
