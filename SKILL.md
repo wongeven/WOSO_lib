@@ -1,12 +1,19 @@
 ---
 name: WOSO_lib
 name_cn: 女足知识库
-description: "世界女足知识库，覆盖19本全球经典专著+4份权威产业/科学报告精华内容，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、月经周期等前沿运动科学议题。触发词：女足、女子足球、女足球员、女足教练、世界杯、球员自传、工作量、月经周期"
+description: "世界女足知识库，覆盖21本全球经典专著+4份权威产业/科学报告精华内容，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、月经周期等前沿运动科学议题。触发词：女足、女子足球、女足球员、女足教练、世界杯、球员自传、工作量、月经周期"
 category: sports
-tags: [women's football, soccer, 足球, 传记, leadership, sports psychology]
+tags:
+  - women's football
+  - soccer
+  - 足球
+  - 传记
+  - leadership
+  - sports psychology
 author: Wang Yifan
-version: "2.0"
+version: "2.3.0"
 shareable: true
+disable: false
 ---
 
 # WOSO_lib | 世界女足知识库
