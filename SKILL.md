@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.3.0"
+version: "2.3.1"
 shareable: true
 disable: false
 ---
