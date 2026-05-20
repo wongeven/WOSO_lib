@@ -1,7 +1,7 @@
 ---
 name: WOSO_lib
 name_cn: 女足知识库
-description: "世界女足知识库，覆盖21本全球经典专著+4份权威产业/科学报告精华内容，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、月经周期等前沿运动科学议题。触发词：女足、女子足球、女足球员、女足教练、世界杯、球员自传、工作量、月经周期"
+description: "世界女足知识库，覆盖21本全球经典专著+9份权威产业/科学报告精华内容，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。触发词：女足、女子足球、女足球员、女足教练、世界杯、球员自传、工作量、月经周期"
 category: sports
 tags:
   - women's football
@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.3.1"
+version: "2.4.0"
 shareable: true
 disable: false
 ---
@@ -25,15 +25,15 @@ disable: false
 
 ## 📚 概述
 
-本技能提供对 **21本全球女足经典专著 + 4份权威产业/科学报告** 精华内容的访问能力。
+本技能提供对 **21本全球女足经典专著 + 9份权威产业/科学报告** 精华内容的访问能力。
 
 涵盖范围：
 - 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo、Julie Ertz 等传奇
 - 🇪🇺 **欧洲**：Emma Hayes、Sarina Wiegman、Christine Sinclair、Leah Williamson、Beth Mead 等名帅与球星
 - 🌍 **全球**：Marta、孙雯 等各国代表人物
 - 🇨🇳 **中国**：韩端、孙雯等中国女足传奇
-- 📊 **产业数据**：球员工作量监控、全球联赛基准报告（FIFA/FIFPRO）
-- 🔬 **运动科学**：月经周期追踪科学共识、运动员月经健康问卷
+- 📊 **产业数据**：球员工作量监控（2024/25）、全球联赛基准报告（FIFA/CIES）
+- 🔬 **运动科学**：月经周期追踪科学共识、体能分析、人口统计分析
 - 🧠 **战术智慧**：Dan Blank Soccer IQ 系列（速度决策、攻防转换）
 
 用户可以通过对话方式询问关于女足历史、球员、教练、战术、运动心理、球员工作量和生理健康等各类话题。
@@ -88,12 +88,17 @@ disable: false
 | Champions of Women's Soccer | Ann Killion | `notes/champions_notes.md` | 22位传奇，FIFA梦之队 |
 | 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长 |
 
-### 产业报告 / 运动科学（4份）
+### 产业报告 / 运动科学（9份）
 
 | 报告名 | 机构 | 笔记文件 | 核心主题 |
 |--------|------|---------|---------|
 | 2024球员工作量监控年报 | FIFPRO | `notes/fifpro_workload_2024_notes.md` | 高使用率/低使用率两极化，巴黎奥运备战差距 |
+| 2025球员工作量监控年报 | FIFPRO | `notes/fifpro_workload_2025_notes.md` | Aitana Bonmatí 60场，两极化加剧 |
 | 2024女子足球基准报告 | FIFA | `notes/fifa_benchmarking_2024_notes.md` | 全球86联赛分级分析，财务/球员/治理数据 |
+| FIFA全球足球发展计划 | FIFA | `notes/fifa_development_2024_notes.md` | 青训体系、技术领导力、高绩效项目 |
+| 女子足球人口统计分析 | CIES | `notes/cies_demographic_2024_notes.md` | 19联赛223队年龄/外籍球员分析 |
+| UEFA 2025欧洲杯体能分析 | UEFA | `notes/uefa_euro2025_physical_notes.md` | 跑动需求、峰值体能、位置分析 |
+| UEFA女子足球战略2024-30 | UEFA | `notes/uefa_strategy_2024_30_notes.md` | 可持续发展、2030目标 |
 | 月经周期知识问卷研究 | Scandinavian J. | `notes/menstrual_questionnaire_notes.md` | 首份标准化月经知识评估工具开发与验证 |
 | 月经周期追踪共识声明 | UEFA | `notes/uefa_menstrual_consensus_notes.md` | Delphi专家共识：追踪方法、伦理边界、统计建议 |
 
@@ -112,11 +117,15 @@ disable: false
 | 询问**运动心理/成功学** | `how_to_win_notes.md` + `everything_your_coach_never_told_you_notes.md` |
 | 询问**美国女足整体历史** | `the_national_team_notes.md` |
 | 询问**中国女足/铿锵玫瑰** | `champions_notes.md`（孙雯章节）+ `han_duan_notes.md` |
-| 询问**球员工作量/赛季出场/疲劳管理** | `fifpro_workload_2024_notes.md` |
-| 询问**全球女子足球发展/联赛数据/商业化** | `fifa_benchmarking_2024_notes.md` |
+| 询问**球员工作量/赛季出场/疲劳管理** | `fifpro_workload_2024_notes.md` + `fifpro_workload_2025_notes.md` |
+| 询问**全球女子足球发展/联赛数据/商业化** | `fifa_benchmarking_2024_notes.md` + `cies_demographic_2024_notes.md` |
 | 询问**月经周期/球员生理/运动医学** | `menstrual_questionnaire_notes.md` + `uefa_menstrual_consensus_notes.md` |
 | 询问**女子足球职业化/工资/合同/联赛治理** | `fifa_benchmarking_2024_notes.md` + `the_national_team_notes.md` |
 | 询问**战术智慧/比赛决策/跑位/压迫** | `soccer_iq_vol1_notes.md` + `soccer_iq_vol2_notes.md` |
+| 询问**FIFA发展计划/青训/教练培训** | `fifa_development_2024_notes.md` |
+| 询问**UEFA战略/欧洲杯/联赛发展** | `uefa_strategy_2024_30_notes.md` |
+| 询问**欧洲杯体能/跑动需求/位置分析** | `uefa_euro2025_physical_notes.md` |
+| 询问**球员年龄/外籍球员/联赛对比** | `cies_demographic_2024_notes.md` |
 
 ### 按球员
 
@@ -186,4 +195,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-19 | WOSO_lib v2.3.1 新增 Dan Blank Soccer IQ 系列（2本）*
+*最后更新：2026-05-20 | WOSO_lib v2.4.0 新增5份产业/科学报告（FIFPRO 2025/FIFA发展/CIES人口/UEFA体能/UEFA战略）*
