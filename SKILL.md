@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.4.1"
+version: "2.5.0"
 shareable: true
 disable: false
 ---
@@ -31,7 +31,7 @@ disable: false
 - 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo、Julie Ertz 等传奇
 - 🇪🇺 **欧洲**：Emma Hayes、Sarina Wiegman、Christine Sinclair、Leah Williamson、Beth Mead 等名帅与球星
 - 🌍 **全球**：Marta、孙雯 等各国代表人物
-- 🇨🇳 **中国**：韩端、孙雯等中国女足传奇
+- 🇨🇳 **中国**：韩端、孙雯等中国女足传奇，2025-26现状调研报告
 - 📊 **产业数据**：球员工作量监控（2024/25）、全球联赛基准报告（FIFA/CIES）
 - 🔬 **运动科学**：月经周期追踪科学共识、体能分析、人口统计分析
 - 🧠 **战术智慧**：Dan Blank Soccer IQ 系列（速度决策、攻防转换）
@@ -87,6 +87,7 @@ disable: false
 | How to Win | Dr. Kate Hays | `notes/how_to_win_notes.md` | 运动心理学，科学训练法 |
 | Champions of Women's Soccer | Ann Killion | `notes/champions_notes.md` | 22位传奇，FIFA梦之队 |
 | 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长 |
+| 中国女足现状调研（2025-26）| 综合整理 | `notes/china_womens_football_status_2025_26_notes.md` | 国家队/联赛/青训/市场全景分析 |
 
 ### 产业报告 / 运动科学（9份）
 
@@ -116,7 +117,7 @@ disable: false
 | 询问**教练/领导力** | `emma_hayes_notes.md` + `what_it_takes_notes.md` |
 | 询问**运动心理/成功学** | `how_to_win_notes.md` + `everything_your_coach_never_told_you_notes.md` |
 | 询问**美国女足整体历史** | `the_national_team_notes.md` |
-| 询问**中国女足/铿锵玫瑰** | `champions_notes.md`（孙雯章节）+ `han_duan_notes.md` |
+| 询问**中国女足/铿锵玫瑰** | `champions_notes.md`（孙雯章节）+ `han_duan_notes.md` + `china_womens_football_status_2025_26_notes.md` |
 | 询问**球员工作量/赛季出场/疲劳管理** | `fifpro_workload_2024_notes.md` + `fifpro_workload_2025_notes.md` |
 | 询问**全球女子足球发展/联赛数据/商业化** | `fifa_benchmarking_2024_notes.md` + `cies_demographic_2024_notes.md` |
 | 询问**月经周期/球员生理/运动医学** | `menstrual_questionnaire_notes.md` + `uefa_menstrual_consensus_notes.md` |
@@ -126,6 +127,7 @@ disable: false
 | 询问**UEFA战略/欧洲杯/联赛发展** | `uefa_strategy_2024_30_notes.md` |
 | 询问**欧洲杯体能/跑动需求/位置分析** | `uefa_euro2025_physical_notes.md` |
 | 询问**球员年龄/外籍球员/联赛对比** | `cies_demographic_2024_notes.md` |
+| 询问**中国女足现状/女超联赛/青训发展/米利西奇** | `china_womens_football_status_2025_26_notes.md` |
 
 ### 按球员
 
@@ -173,6 +175,9 @@ disable: false
 **问："月经周期会影响足球运动员的表现吗？"**
 → 加载 `uefa_menstrual_consensus_notes.md` + `menstrual_questionnaire_notes.md`，综合回答科学共识和研究证据
 
+**问："中国女足现在什么水平？女超联赛发展怎么样？"**
+→ 加载 `china_womens_football_status_2025_26_notes.md`，从国家队战绩、联赛上座率、青训挑战三个维度回答
+
 ---
 
 ## 📝 回答规范
@@ -195,4 +200,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-20 | WOSO_lib v2.4.0 新增5份产业/科学报告（FIFPRO 2025/FIFA发展/CIES人口/UEFA体能/UEFA战略）*
+*最后更新：2026-05-21 | WOSO_lib v2.5.0 新增中国女足现状调研报告（2025-26）*
