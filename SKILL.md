@@ -191,7 +191,7 @@ disable: false
 
 如需深入学习某本书，建议购买原版支持作者。
 
-**索引内容由 AI 生成，如有勘误，请联系：yifan.f.wang@foxmail.com**
+**索引内容由 AI 生成，如有疑问，请联系：yifan.f.wang@foxmail.com**
 
 ---
 
