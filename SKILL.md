@@ -1,7 +1,7 @@
 ---
 name: WOSO_lib
 name_cn: 女足知识库
-description: "世界女足知识库，覆盖21本全球经典专著+9份权威产业/科学报告精华内容，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。触发词：女足、女子足球、女足球员、女足教练、世界杯、球员自传、工作量、月经周期"
+description: "世界女足知识库，覆盖21本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。触发词：女足、女子足球、女足球员、女足教练、世界杯、球员自传、工作量、月经周期、米利西奇"
 category: sports
 tags:
   - women's football
@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.5.0"
+version: "2.6.0"
 shareable: true
 disable: false
 ---
@@ -25,7 +25,7 @@ disable: false
 
 ## 📚 概述
 
-本技能提供对 **21本全球女足经典专著 + 9份权威产业/科学报告** 精华内容的访问能力。
+本技能提供对 **21本全球女足经典专著 + 9份权威产业/科学报告 + 主教练采访实录** 精华内容的访问能力。
 
 涵盖范围：
 - 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo、Julie Ertz 等传奇
@@ -88,6 +88,7 @@ disable: false
 | Champions of Women's Soccer | Ann Killion | `notes/champions_notes.md` | 22位传奇，FIFA梦之队 |
 | 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长 |
 | 中国女足现状调研（2025-26）| 综合整理 | `notes/china_womens_football_status_2025_26_notes.md` | 国家队/联赛/青训/市场全景分析 |
+| 米利西奇采访实录 | Ante Milicic | `notes/ante_milicic_interview_notes.md` | 执教理念、男女足差异、中国女足文化冲击、领导力哲学 |
 
 ### 产业报告 / 运动科学（9份）
 
@@ -127,7 +128,8 @@ disable: false
 | 询问**UEFA战略/欧洲杯/联赛发展** | `uefa_strategy_2024_30_notes.md` |
 | 询问**欧洲杯体能/跑动需求/位置分析** | `uefa_euro2025_physical_notes.md` |
 | 询问**球员年龄/外籍球员/联赛对比** | `cies_demographic_2024_notes.md` |
-| 询问**中国女足现状/女超联赛/青训发展/米利西奇** | `china_womens_football_status_2025_26_notes.md` |
+| 询问**中国女足现状/女超联赛/青训发展/米利西奇** | `china_womens_football_status_2025_26_notes.md` + `ante_milicic_interview_notes.md` |
+| 询问**米利西奇执教理念/男女足教练差异/球员发展/领导力哲学** | `ante_milicic_interview_notes.md` |
 
 ### 按球员
 
@@ -178,6 +180,9 @@ disable: false
 **问："中国女足现在什么水平？女超联赛发展怎么样？"**
 → 加载 `china_womens_football_status_2025_26_notes.md`，从国家队战绩、联赛上座率、青训挑战三个维度回答
 
+**问："米利西奇是怎么带中国女足的？他的执教理念是什么？"**
+→ 加载 `ante_milicic_interview_notes.md`，重点回答文化冲击、男女足沟通差异、"楼梯建电梯拆"的文化理论
+
 ---
 
 ## 📝 回答规范
@@ -200,4 +205,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-21 | WOSO_lib v2.5.0 新增中国女足现状调研报告（2025-26）*
+*最后更新：2026-05-15 | WOSO_lib v2.6.0 新增米利西奇（Ante Milicic）采访实录笔记（两篇英文采访稿深度分析：执教理念、男女足差异、中国女足文化冲击、领导力哲学）*
