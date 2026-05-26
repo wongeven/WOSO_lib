@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.6.0"
+version: "2.7.0"
 shareable: true
 disable: false
 ---
@@ -35,6 +35,7 @@ disable: false
 - 📊 **产业数据**：球员工作量监控（2024/25）、全球联赛基准报告（FIFA/CIES）
 - 🔬 **运动科学**：月经周期追踪科学共识、体能分析、人口统计分析
 - 🧠 **战术智慧**：Dan Blank Soccer IQ 系列（速度决策、攻防转换）
+- 👀 **观赛指南**：如何看懂女足比赛（技术/战术/人物/团队多层视角）
 
 用户可以通过对话方式询问关于女足历史、球员、教练、战术、运动心理、球员工作量和生理健康等各类话题。
 
@@ -89,6 +90,7 @@ disable: false
 | 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长 |
 | 中国女足现状调研（2025-26）| 综合整理 | `notes/china_womens_football_status_2025_26_notes.md` | 国家队/联赛/青训/市场全景分析 |
 | 米利西奇采访实录 | Ante Milicic | `notes/ante_milicic_interview_notes.md` | 执教理念、男女足差异、中国女足文化冲击、领导力哲学 |
+| 女足观赛指南 | 综合整理 | `notes/watching_guide_notes.md` | 多层观赛视角（技术/战术/人物/团队），实用观赛清单 |
 
 ### 产业报告 / 运动科学（9份）
 
@@ -130,6 +132,8 @@ disable: false
 | 询问**球员年龄/外籍球员/联赛对比** | `cies_demographic_2024_notes.md` |
 | 询问**中国女足现状/女超联赛/青训发展/米利西奇** | `china_womens_football_status_2025_26_notes.md` + `ante_milicic_interview_notes.md` |
 | 询问**米利西奇执教理念/男女足教练差异/球员发展/领导力哲学** | `ante_milicic_interview_notes.md` |
+| 询问**如何看比赛/看懂女足/观赛指南/欣赏比赛** | `watching_guide_notes.md` + `soccer_iq_vol1_notes.md` + `soccer_iq_vol2_notes.md` |
+| 询问**Emma Hayes"A Completely Different Game"书名含义/女足男足差异/不同太阳系** | `emma_hayes_notes.md` |
 
 ### 按球员
 
@@ -183,6 +187,12 @@ disable: false
 **问："米利西奇是怎么带中国女足的？他的执教理念是什么？"**
 → 加载 `ante_milicic_interview_notes.md`，重点回答文化冲击、男女足沟通差异、"楼梯建电梯拆"的文化理论
 
+**问："怎么才能看懂女足比赛？从看热闹到看门道。"**
+→ 加载 `watching_guide_notes.md` + `soccer_iq_vol1_notes.md`，五层视角递进回答
+
+**问："Emma Hayes 的书为什么叫 'A Completely Different Game'？"**
+→ 加载 `emma_hayes_notes.md`，重点回答书名三层含义 + Ch5/Ch13 原文论述
+
 ---
 
 ## 📝 回答规范
@@ -205,4 +215,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-15 | WOSO_lib v2.6.0 新增米利西奇（Ante Milicic）采访实录笔记（两篇英文采访稿深度分析：执教理念、男女足差异、中国女足文化冲击、领导力哲学）*
+*最后更新：2026-05-26 | WOSO_lib v2.7.0 — Emma Hayes 笔记大幅扩展（书名三层含义 + Ch5/Ch13 原文论述完整分析）；中国女足笔记补充米利西奇舆论争议时间线及深层原因；新增女足观赛指南笔记；SKILL.md 新增路由规则及示例对话*
