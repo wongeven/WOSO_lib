@@ -1,7 +1,7 @@
 ---
 name: WOSO_lib
 name_cn: 女足知识库
-description: "世界女足知识库，覆盖21本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。触发词：女足、女子足球、女足球员、女足教练、世界杯、球员自传、工作量、月经周期、米利西奇"
+description: "世界女足知识库，覆盖26本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。触发词：女足、女子足球、女足球员、女足教练、世界杯、球员自传、工作量、月经周期、米利西奇、Suzanne Wrack、Eniola Aluko、Briana Scurry、Alex Scott"
 category: sports
 tags:
   - women's football
@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.7.0"
+version: "2.8.0"
 shareable: true
 disable: false
 ---
@@ -25,12 +25,13 @@ disable: false
 
 ## 📚 概述
 
-本技能提供对 **21本全球女足经典专著 + 9份权威产业/科学报告 + 主教练采访实录** 精华内容的访问能力。
+本技能提供对 **26本全球女足经典专著 + 9份权威产业/科学报告 + 主教练采访实录** 精华内容的访问能力。
 
 涵盖范围：
-- 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo、Julie Ertz 等传奇
-- 🇪🇺 **欧洲**：Emma Hayes、Sarina Wiegman、Christine Sinclair、Leah Williamson、Beth Mead 等名帅与球星
+- 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo、Julie Ertz、Briana Scurry 等传奇
+- 🇪🇺 **欧洲**：Emma Hayes、Sarina Wiegman、Christine Sinclair、Leah Williamson、Beth Mead、Alex Scott、Eniola Aluko 等名帅与球星
 - 🌍 **全球**：Marta、孙雯 等各国代表人物
+- 📜 **历史与社会学**：英国女足兴衰史（Suzanne Wrack）、女性主义与体育（Macaela MacKenzie）
 - 🇨🇳 **中国**：韩端、孙雯等中国女足传奇，2025-26现状调研报告
 - 📊 **产业数据**：球员工作量监控（2024/25）、全球联赛基准报告（FIFA/CIES）
 - 🔬 **运动科学**：月经周期追踪科学共识、体能分析、人口统计分析
@@ -53,7 +54,7 @@ disable: false
 
 ## 📖 知识库文件索引
 
-### 美国 / 北美球员自传（8本）
+### 美国 / 北美球员自传（9本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -65,8 +66,9 @@ disable: false
 | Solo: A Memoir of Hope | Hope Solo | `notes/solo_notes.md` | 门将的孤独，争议与伟大 |
 | Chase Your Dreams | Julie Ertz | `notes/chase_your_dreams_notes.md` | 年轻球员励志，信仰与坚持 |
 | Raised a Warrior | Susie Petruccelli | `notes/raised_a_warrior_notes.md` | 球员到教练的转型，平权 |
+| My Greatest Save | Briana Scurry | `notes/my_greatest_save_notes.md` | 1999世界杯传奇门将，脑震荡与身份认同 |
 
-### 欧洲 / 国际人物传记（6本）
+### 欧洲 / 国际人物传记（8本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -76,8 +78,17 @@ disable: false
 | What It Takes | Sarina Wiegman | `notes/what_it_takes_notes.md` | 荷兰→英格兰，包容性领导力 |
 | You Have the Power | Leah Williamson | `notes/leah_williamson_notes.md` | 英格兰队长，10条人生法则 |
 | Under the Lights | Gwendolyn Oxenham | `notes/under_the_lights_notes.md` | 普通球员生存状态，全球视角 |
+| How (Not) To Be Strong | Alex Scott | `notes/how_not_to_be_strong_notes.md` | "坚强"的代价，童年创伤与心理成长 |
+| They Don't Teach This | Eniola Aluko | `notes/they_dont_teach_this_notes.md` | 尼日利亚裔英格兰国脚，种族/性别/法律三重身份 |
 
-### 综合 / 战术 / 历史（7本）
+### 历史 / 社会学研究（2本）
+
+| 书名 | 作者 | 笔记文件 | 核心主题 |
+|------|------|---------|---------|
+| A Woman's Game | Suzanne Wrack | `notes/a_womans_game_notes.md` | 英国女足兴衰500年史，FA禁令与女权运动 |
+| Money, Power, Respect | Macaela MacKenzie | `notes/money_power_respect_notes.md` | 女性运动员重塑现代女性主义，薪酬/影响力/尊重 |
+
+### 综合 / 战术（5本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -134,6 +145,11 @@ disable: false
 | 询问**米利西奇执教理念/男女足教练差异/球员发展/领导力哲学** | `ante_milicic_interview_notes.md` |
 | 询问**如何看比赛/看懂女足/观赛指南/欣赏比赛** | `watching_guide_notes.md` + `soccer_iq_vol1_notes.md` + `soccer_iq_vol2_notes.md` |
 | 询问**Emma Hayes"A Completely Different Game"书名含义/女足男足差异/不同太阳系** | `emma_hayes_notes.md` |
+| 询问**女足历史/英国女足发展/FA禁令/Dick Kerr Ladies** | `a_womans_game_notes.md` |
+| 询问**女性主义与体育/性别平等/同工同酬运动/女性运动员权力** | `money_power_respect_notes.md` + `the_national_team_notes.md` + `one_life_notes.md` |
+| 询问**Eniola Aluko/种族歧视/FA Sampson/尼日利亚裔球员** | `they_dont_teach_this_notes.md` |
+| 询问**Alex Scott/阿森纳女足/"坚强"的代价/运动员心理健康** | `how_not_to_be_strong_notes.md` |
+| 询问**Briana Scurry/1999世界杯/门将位置/脑震荡** | `my_greatest_save_notes.md` |
 
 ### 按球员
 
@@ -153,6 +169,9 @@ disable: false
 | Marta | `champions_notes.md`（Marta章节）|
 | Julie Ertz | `chase_your_dreams_notes.md` |
 | 韩端 | `han_duan_notes.md` |
+| Briana Scurry | `my_greatest_save_notes.md` |
+| Alex Scott | `how_not_to_be_strong_notes.md` |
+| Eniola Aluko | `they_dont_teach_this_notes.md` |
 
 ---
 
@@ -193,6 +212,21 @@ disable: false
 **问："Emma Hayes 的书为什么叫 'A Completely Different Game'？"**
 → 加载 `emma_hayes_notes.md`，重点回答书名三层含义 + Ch5/Ch13 原文论述
 
+**问："英国女足为什么被禁止了50年？1921年FA禁令到底怎么回事？"**
+→ 加载 `a_womans_game_notes.md`，回答 Dick, Kerr Ladies 的 53,000 观众纪录、FA 禁令的真正原因（对女性权力的恐惧）
+
+**问："Eniola Aluko 和英格兰足协的那个种族歧视案是怎么回事？"**
+→ 加载 `they_dont_teach_this_notes.md`，回答 Sampson 争议、FA 调查处理、Aluko 的法律反击
+
+**问："Alex Scott 的书为什么叫 'How (Not) To Be Strong'？"**
+→ 加载 `how_not_to_be_strong_notes.md`，回答童年创伤、"坚强"作为防御机制的心理学分析
+
+**问："Briana Scurry 的1999世界杯点球大战是怎么赢的？"**
+→ 加载 `my_greatest_save_notes.md`，回答玫瑰碗9万观众、对中国队决赛、Liu Yan 的点球
+
+**问："女性运动员争取平等的斗争，除了同工同酬还有哪些战场？"**
+→ 加载 `money_power_respect_notes.md`，回答母职惩罚、物化、集体行动等六大论点
+
 ---
 
 ## 📝 回答规范
@@ -215,4 +249,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-26 | WOSO_lib v2.7.0 — Emma Hayes 笔记大幅扩展（书名三层含义 + Ch5/Ch13 原文论述完整分析）；中国女足笔记补充米利西奇舆论争议时间线及深层原因；新增女足观赛指南笔记；SKILL.md 新增路由规则及示例对话*
+*最后更新：2026-05-27 | WOSO_lib v2.8.0 — 新增5本专著笔记：A Woman's Game（英国女足兴衰史）、They Don't Teach This（Eniola Aluko自传/种族议题）、My Greatest Save（Briana Scurry自传/1999世界杯门将）、How (Not) To Be Strong（Alex Scott心理成长）、Money Power Respect（女性主义与体育社会学）；知识库从21本扩展至26本专著*
