@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.8.0"
+version: "2.8.1"
 shareable: true
 disable: false
 ---
@@ -240,4 +240,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-27 | WOSO_lib v2.8.0 — 新增5本专著笔记：A Woman's Game（英国女足兴衰史）、They Don't Teach This（Eniola Aluko自传/种族议题）、My Greatest Save（Briana Scurry自传/1999世界杯门将）、How (Not) To Be Strong（Alex Scott心理成长）、Money Power Respect（女性主义与体育社会学）；知识库从21本扩展至26本专著*
+*最后更新：2026-05-27 | WOSO_lib v2.8.1 — 删除3条示例对话，修正专著计数口径*
