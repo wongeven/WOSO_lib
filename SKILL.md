@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.8.2"
+version: "2.8.3"
 shareable: true
 disable: false
 ---
@@ -196,9 +196,6 @@ disable: false
 **问："Emma Hayes的领导力哲学是什么"**
 → 加载 `emma_hayes_notes.md`，回答"杀死独角兽"核心理念
 
-**问："为什么Beth Mead在欧洲杯表现那么好"**
-→ 加载 `lioness_notes.md`，重点讲母亲的故事和Sarina Wiegman的信任
-
 **问："女子足球球员的工作量有多大？巴塞罗那的球员为什么那么累？"**
 → 加载 `fifpro_workload_2024_notes.md`，讲述Mariona Caldentey 64场/年的极端案例
 
@@ -219,15 +216,6 @@ disable: false
 
 **问："英国女足为什么被禁止了50年？1921年FA禁令到底怎么回事？"**
 → 加载 `a_womans_game_notes.md`，回答 Dick, Kerr Ladies 的 53,000 观众纪录、FA 禁令的真正原因（对女性权力的恐惧）
-
-**问："Eniola Aluko 和英格兰足协的那个种族歧视案是怎么回事？"**
-→ 加载 `they_dont_teach_this_notes.md`，回答 Sampson 争议、FA 调查处理、Aluko 的法律反击
-
-**问："Briana Scurry 的1999世界杯点球大战是怎么赢的？"**
-→ 加载 `my_greatest_save_notes.md`，回答玫瑰碗9万观众、对中国队决赛、Liu Yan 的点球
-
-**问："女性运动员争取平等的斗争，除了同工同酬还有哪些战场？"**
-→ 加载 `money_power_respect_notes.md`，回答母职惩罚、物化、集体行动等六大论点
 
 ---
 
@@ -251,4 +239,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-27 | WOSO_lib v2.8.2 — 统一分类体系（与静态网站对齐为7个内容类型分类），清理空分类*
+*最后更新：2026-05-27 | WOSO_lib v2.8.3 — 示例对话从13条精简至9条*
