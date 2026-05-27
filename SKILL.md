@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.8.1"
+version: "2.8.2"
 shareable: true
 disable: false
 ---
@@ -54,7 +54,9 @@ disable: false
 
 ## 📖 知识库文件索引
 
-### 美国 / 北美球员自传（9本）
+> 分类标准：按内容类型分为 7 类，与静态网站 woso-library 保持一致
+
+### 📗 球员自传（13本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -67,46 +69,56 @@ disable: false
 | Chase Your Dreams | Julie Ertz | `notes/chase_your_dreams_notes.md` | 年轻球员励志，信仰与坚持 |
 | Raised a Warrior | Susie Petruccelli | `notes/raised_a_warrior_notes.md` | 球员到教练的转型，平权 |
 | My Greatest Save | Briana Scurry | `notes/my_greatest_save_notes.md` | 1999世界杯传奇门将，脑震荡与身份认同 |
+| Lioness | Beth Mead | `notes/lioness_notes.md` | 母亲患癌，欧洲杯金靴 |
+| Playing the Long Game | Christine Sinclair | `notes/sinclair_notes.md` | 加拿大传奇，奥运金牌，团队高于个人 |
+| You Have the Power | Leah Williamson | `notes/leah_williamson_notes.md` | 英格兰队长，10条人生法则 |
+| They Don't Teach This | Eniola Aluko | `notes/they_dont_teach_this_notes.md` | 尼日利亚裔英格兰国脚，种族/性别/法律三重身份 |
 
-### 欧洲 / 国际人物传记（8本）
+### 📘 教练手记（3本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
 | A Completely Different Game | Emma Hayes | `notes/emma_hayes_notes.md` | 领导力哲学，"杀死独角兽" |
-| Lioness | Beth Mead | `notes/lioness_notes.md` | 母亲患癌，欧洲杯金靴 |
-| Playing the Long Game | Christine Sinclair | `notes/sinclair_notes.md` | 加拿大传奇，奥运金牌，团队高于个人 |
 | What It Takes | Sarina Wiegman | `notes/what_it_takes_notes.md` | 荷兰→英格兰，包容性领导力 |
-| You Have the Power | Leah Williamson | `notes/leah_williamson_notes.md` | 英格兰队长，10条人生法则 |
-| Under the Lights | Gwendolyn Oxenham | `notes/under_the_lights_notes.md` | 普通球员生存状态，全球视角 |
-| How (Not) To Be Strong | Alex Scott | `notes/how_not_to_be_strong_notes.md` | "坚强"的代价，童年创伤与心理成长 |
-| They Don't Teach This | Eniola Aluko | `notes/they_dont_teach_this_notes.md` | 尼日利亚裔英格兰国脚，种族/性别/法律三重身份 |
+| 米利西奇采访实录 | Ante Milicic | `notes/ante_milicic_interview_notes.md` | 执教理念、男女足差异、中国女足文化冲击、领导力哲学 |
 
-### 历史 / 社会学研究（2本）
-
-| 书名 | 作者 | 笔记文件 | 核心主题 |
-|------|------|---------|---------|
-| A Woman's Game | Suzanne Wrack | `notes/a_womans_game_notes.md` | 英国女足兴衰500年史，FA禁令与女权运动 |
-| Money, Power, Respect | Macaela MacKenzie | `notes/money_power_respect_notes.md` | 女性运动员重塑现代女性主义，薪酬/影响力/尊重 |
-
-### 综合 / 战术（5本）
+### 📜 综合历史（6本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
 | Soccerwomen | Gemma Clarke | `notes/soccerwomen_notes.md` | 全球女足百科全书，30+人物 |
+| Under the Lights | Gwendolyn Oxenham | `notes/under_the_lights_notes.md` | 普通球员生存状态，全球视角 |
+| Champions of Women's Soccer | Ann Killion | `notes/champions_notes.md` | 22位传奇，FIFA梦之队 |
+| A Woman's Game | Suzanne Wrack | `notes/a_womans_game_notes.md` | 英国女足兴衰500年史，FA禁令与女权运动 |
+| Money, Power, Respect | Macaela MacKenzie | `notes/money_power_respect_notes.md` | 女性运动员重塑现代女性主义，薪酬/影响力/尊重 |
+| 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长 |
+
+### 📕 战术教学（3本）
+
+| 书名 | 作者 | 笔记文件 | 核心主题 |
+|------|------|---------|---------|
 | Everything Your Coach Never Told You | Dan Blank | `notes/everything_your_coach_never_told_you_notes.md` | 心智训练，脏活累活 |
 | Soccer IQ Volume 1 | Dan Blank | `notes/soccer_iq_vol1_notes.md` | 速度决策，球员思维入门 |
 | Soccer IQ Volume 2 | Dan Blank | `notes/soccer_iq_vol2_notes.md` | 攻防转换，人数优势创造 |
+
+### 📙 运动心理（2本）
+
+| 书名 | 作者 | 笔记文件 | 核心主题 |
+|------|------|---------|---------|
 | How to Win | Dr. Kate Hays | `notes/how_to_win_notes.md` | 运动心理学，科学训练法 |
-| Champions of Women's Soccer | Ann Killion | `notes/champions_notes.md` | 22位传奇，FIFA梦之队 |
-| 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长 |
-| 中国女足现状调研（2025-26）| 综合整理 | `notes/china_womens_football_status_2025_26_notes.md` | 国家队/联赛/青训/市场全景分析 |
-| 米利西奇采访实录 | Ante Milicic | `notes/ante_milicic_interview_notes.md` | 执教理念、男女足差异、中国女足文化冲击、领导力哲学 |
+| How (Not) To Be Strong | Alex Scott | `notes/how_not_to_be_strong_notes.md` | "坚强"的代价，童年创伤与心理成长 |
+
+### 🧭 指南（1本）
+
+| 书名 | 作者 | 笔记文件 | 核心主题 |
+|------|------|---------|---------|
 | 女足观赛指南 | 综合整理 | `notes/watching_guide_notes.md` | 多层观赛视角（技术/战术/人物/团队），实用观赛清单 |
 
-### 产业报告 / 运动科学（9份）
+### 📊 产业报告（9份）
 
 | 报告名 | 机构 | 笔记文件 | 核心主题 |
 |--------|------|---------|---------|
+| 中国女足现状调研（2025-26）| 综合整理 | `notes/china_womens_football_status_2025_26_notes.md` | 国家队/联赛/青训/市场全景分析 |
 | 2024球员工作量监控年报 | FIFPRO | `notes/fifpro_workload_2024_notes.md` | 高使用率/低使用率两极化，巴黎奥运备战差距 |
 | 2025球员工作量监控年报 | FIFPRO | `notes/fifpro_workload_2025_notes.md` | Aitana Bonmatí 60场，两极化加剧 |
 | 2024女子足球基准报告 | FIFA | `notes/fifa_benchmarking_2024_notes.md` | 全球86联赛分级分析，财务/球员/治理数据 |
@@ -114,8 +126,7 @@ disable: false
 | 女子足球人口统计分析 | CIES | `notes/cies_demographic_2024_notes.md` | 19联赛223队年龄/外籍球员分析 |
 | UEFA 2025欧洲杯体能分析 | UEFA | `notes/uefa_euro2025_physical_notes.md` | 跑动需求、峰值体能、位置分析 |
 | UEFA女子足球战略2024-30 | UEFA | `notes/uefa_strategy_2024_30_notes.md` | 可持续发展、2030目标 |
-| 月经周期知识问卷研究 | Scandinavian J. | `notes/menstrual_questionnaire_notes.md` | 首份标准化月经知识评估工具开发与验证 |
-| 月经周期追踪共识声明 | UEFA | `notes/uefa_menstrual_consensus_notes.md` | Delphi专家共识：追踪方法、伦理边界、统计建议 |
+| 月经周期知识问卷研究 + 共识声明 | Scandinavian J. / UEFA | `notes/menstrual_questionnaire_notes.md` + `notes/uefa_menstrual_consensus_notes.md` | 月经知识评估工具 + Delphi专家共识：追踪方法、伦理边界 |
 
 ---
 
@@ -240,4 +251,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-27 | WOSO_lib v2.8.1 — 删除3条示例对话，修正专著计数口径*
+*最后更新：2026-05-27 | WOSO_lib v2.8.2 — 统一分类体系（与静态网站对齐为7个内容类型分类），清理空分类*
