@@ -188,9 +188,6 @@ disable: false
 **问："为什么Beth Mead在欧洲杯表现那么好"**
 → 加载 `lioness_notes.md`，重点讲母亲的故事和Sarina Wiegman的信任
 
-**问："孙雯和韩端的故事"**
-→ 加载 `champions_notes.md`（孙雯部分）+ `han_duan_notes.md`，中西对比
-
 **问："女子足球球员的工作量有多大？巴塞罗那的球员为什么那么累？"**
 → 加载 `fifpro_workload_2024_notes.md`，讲述Mariona Caldentey 64场/年的极端案例
 
@@ -209,17 +206,11 @@ disable: false
 **问："怎么才能看懂女足比赛？从看热闹到看门道。"**
 → 加载 `watching_guide_notes.md` + `soccer_iq_vol1_notes.md`，五层视角递进回答
 
-**问："Emma Hayes 的书为什么叫 'A Completely Different Game'？"**
-→ 加载 `emma_hayes_notes.md`，重点回答书名三层含义 + Ch5/Ch13 原文论述
-
 **问："英国女足为什么被禁止了50年？1921年FA禁令到底怎么回事？"**
 → 加载 `a_womans_game_notes.md`，回答 Dick, Kerr Ladies 的 53,000 观众纪录、FA 禁令的真正原因（对女性权力的恐惧）
 
 **问："Eniola Aluko 和英格兰足协的那个种族歧视案是怎么回事？"**
 → 加载 `they_dont_teach_this_notes.md`，回答 Sampson 争议、FA 调查处理、Aluko 的法律反击
-
-**问："Alex Scott 的书为什么叫 'How (Not) To Be Strong'？"**
-→ 加载 `how_not_to_be_strong_notes.md`，回答童年创伤、"坚强"作为防御机制的心理学分析
 
 **问："Briana Scurry 的1999世界杯点球大战是怎么赢的？"**
 → 加载 `my_greatest_save_notes.md`，回答玫瑰碗9万观众、对中国队决赛、Liu Yan 的点球
