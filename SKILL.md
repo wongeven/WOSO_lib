@@ -1,7 +1,7 @@
 ---
 name: WOSO_lib
 name_cn: 女足知识库
-description: "世界女足知识库，覆盖28本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。"
+description: "世界女足知识库，覆盖30本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。"
 category: sports
 tags:
   - women's football
@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.9.1"
+version: "2.10.0"
 shareable: true
 disable: false
 ---
@@ -25,7 +25,7 @@ disable: false
 
 ## 📚 概述
 
-本技能提供对 **26本全球女足经典专著 + 9份权威产业/科学报告 + 主教练采访实录** 精华内容的访问能力。
+本技能提供对 **28本全球女足经典专著 + 9份权威产业/科学报告 + 主教练采访实录** 精华内容的访问能力。
 
 涵盖范围：
 - 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo、Julie Ertz、Briana Scurry 等传奇
@@ -56,7 +56,7 @@ disable: false
 
 > 分类标准：按内容类型分为 7 类，与静态网站 woso-library 保持一致
 
-### 📗 球员自传（15本）
+### 📗 球员自传（16本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -75,13 +75,15 @@ disable: false
 | 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长，铿锵玫瑰黄金一代 |
 | Breakaway Beyond the Goal | Alex Morgan | `notes/breakaway_notes.md` | 青少年自传，ACL重伤后崛起，目标设定哲学 |
 | Alex Morgan (青少年传记) | Gail Terp / World Book | `notes/alex_morgan_terp_notes.md` | 第三人称青少年传记，奥运会头球绝杀 |
+| Powerhouse | Kristine Lilly | `notes/powerhouse_notes.md` | 354场纪录保持者，TEAM框架13条团队战术，从锋线到边后卫的转型 |
 
-### 📘 教练手记（3本）
+### 📘 教练手记（4本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
 | A Completely Different Game | Emma Hayes | `notes/emma_hayes_notes.md` | 领导力哲学，"杀死独角兽" |
 | What It Takes | Sarina Wiegman | `notes/what_it_takes_notes.md` | 荷兰→英格兰，包容性领导力 |
+| The Vision of a Champion | Anson Dorrance & Gloria Averbuch | `notes/vision_of_a_champion_notes.md` | UNC 22冠王朝，竞争大熔炉(Competitive Cauldron)，"冠军的愿景"定义 |
 | 米利西奇采访实录 | Ante Milicic | `notes/ante_milicic_interview_notes.md` | 执教理念、男女足差异、中国女足文化冲击、领导力哲学 |
 
 ### 📜 综合历史（6本）
@@ -163,6 +165,8 @@ disable: false
 | 询问**Eniola Aluko/种族歧视/FA Sampson/尼日利亚裔球员** | `they_dont_teach_this_notes.md` |
 | 询问**Alex Scott/阿森纳女足/"坚强"的代价/运动员心理健康** | `how_not_to_be_strong_notes.md` |
 | 询问**Briana Scurry/1999世界杯/门将位置/脑震荡** | `my_greatest_save_notes.md` |
+| 询问**Kristine Lilly/354场/USWNT最长效力/团队战术/TEAM框架** | `powerhouse_notes.md` |
+| 询问**Anson Dorrance/UNC女足/竞争大熔炉/冠军的愿景/青训哲学** | `vision_of_a_champion_notes.md` |
 
 ### 按球员
 
@@ -185,6 +189,7 @@ disable: false
 | Briana Scurry | `my_greatest_save_notes.md` |
 | Alex Scott | `how_not_to_be_strong_notes.md` |
 | Eniola Aluko | `they_dont_teach_this_notes.md` |
+| Kristine Lilly | `powerhouse_notes.md` |
 
 ---
 
@@ -241,4 +246,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-28 | WOSO_lib v2.9.1 — 更新《风雨玫瑰》笔记（32章完整目录+五阶段叙事结构）*
+*最后更新：2026-05-28 | WOSO_lib v2.10.0 — 新增 Powerhouse (Kristine Lilly) + The Vision of a Champion (Anson Dorrance)*
