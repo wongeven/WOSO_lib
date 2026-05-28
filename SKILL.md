@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.8.5"
+version: "2.8.6"
 shareable: true
 disable: false
 ---
@@ -56,11 +56,10 @@ disable: false
 
 > 分类标准：按内容类型分为 7 类，与静态网站 woso-library 保持一致
 
-### 📗 球员自传（14本）
+### 📗 球员自传（13本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
-| The National Team | Caitlin Murray | `notes/the_national_team_notes.md` | 美国女足内部史，平等薪酬斗争 |
 | Forward | Abby Wambach | `notes/forward_notes.md` | 成瘾与康复，脆弱的力量 |
 | One Life | Megan Rapinoe | `notes/one_life_notes.md` | 同工同酬，社会活动主义 |
 | Go for the Goal | Mia Hamm | `notes/go_for_the_goal_notes.md` | 技术教学+团队哲学 |
@@ -83,10 +82,11 @@ disable: false
 | What It Takes | Sarina Wiegman | `notes/what_it_takes_notes.md` | 荷兰→英格兰，包容性领导力 |
 | 米利西奇采访实录 | Ante Milicic | `notes/ante_milicic_interview_notes.md` | 执教理念、男女足差异、中国女足文化冲击、领导力哲学 |
 
-### 📜 综合历史（5本）
+### 📜 综合历史（6本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
+| The National Team | Caitlin Murray | `notes/the_national_team_notes.md` | 美国女足内部史，平等薪酬斗争 |
 | Soccerwomen | Gemma Clarke | `notes/soccerwomen_notes.md` | 全球女足百科全书，30+人物 |
 | Under the Lights | Gwendolyn Oxenham | `notes/under_the_lights_notes.md` | 普通球员生存状态，全球视角 |
 | Champions of Women's Soccer | Ann Killion | `notes/champions_notes.md` | 22位传奇，FIFA梦之队 |
@@ -239,4 +239,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-28 | WOSO_lib v2.8.5 — 风雨玫瑰从「综合历史」移至「球员自传」，与静态站分类对齐*
+*最后更新：2026-05-28 | WOSO_lib v2.8.6 — The National Team 从球员自传移至综合历史，与静态站对齐*
