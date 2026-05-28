@@ -1,7 +1,7 @@
 ---
 name: WOSO_lib
 name_cn: 女足知识库
-description: "世界女足知识库，覆盖26本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。"
+description: "世界女足知识库，覆盖28本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。"
 category: sports
 tags:
   - women's football
@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.8.6"
+version: "2.9.0"
 shareable: true
 disable: false
 ---
@@ -56,7 +56,7 @@ disable: false
 
 > 分类标准：按内容类型分为 7 类，与静态网站 woso-library 保持一致
 
-### 📗 球员自传（13本）
+### 📗 球员自传（15本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -73,6 +73,8 @@ disable: false
 | You Have the Power | Leah Williamson | `notes/leah_williamson_notes.md` | 英格兰队长，10条人生法则 |
 | They Don't Teach This | Eniola Aluko | `notes/they_dont_teach_this_notes.md` | 尼日利亚裔英格兰国脚，种族/性别/法律三重身份 |
 | 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长，铿锵玫瑰黄金一代 |
+| Breakaway Beyond the Goal | Alex Morgan | `notes/breakaway_notes.md` | 青少年自传，ACL重伤后崛起，目标设定哲学 |
+| Alex Morgan (青少年传记) | Gail Terp / World Book | `notes/alex_morgan_terp_notes.md` | 第三人称青少年传记，奥运会头球绝杀 |
 
 ### 📘 教练手记（3本）
 
@@ -239,4 +241,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-28 | WOSO_lib v2.8.6 — The National Team 从球员自传移至综合历史，与静态站对齐*
+*最后更新：2026-05-28 | WOSO_lib v2.9.0 — 新增 Alex Morgan 两本书（Breakaway 自传 + Terp 青少年传记）*
