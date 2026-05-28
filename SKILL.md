@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.9.0"
+version: "2.9.1"
 shareable: true
 disable: false
 ---
@@ -241,4 +241,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-28 | WOSO_lib v2.9.0 — 新增 Alex Morgan 两本书（Breakaway 自传 + Terp 青少年传记）*
+*最后更新：2026-05-28 | WOSO_lib v2.9.1 — 更新《风雨玫瑰》笔记（32章完整目录+五阶段叙事结构）*
