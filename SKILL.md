@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.8.4"
+version: "2.8.5"
 shareable: true
 disable: false
 ---
@@ -56,7 +56,7 @@ disable: false
 
 > 分类标准：按内容类型分为 7 类，与静态网站 woso-library 保持一致
 
-### 📗 球员自传（13本）
+### 📗 球员自传（14本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -73,6 +73,7 @@ disable: false
 | Playing the Long Game | Christine Sinclair | `notes/sinclair_notes.md` | 加拿大传奇，奥运金牌，团队高于个人 |
 | You Have the Power | Leah Williamson | `notes/leah_williamson_notes.md` | 英格兰队长，10条人生法则 |
 | They Don't Teach This | Eniola Aluko | `notes/they_dont_teach_this_notes.md` | 尼日利亚裔英格兰国脚，种族/性别/法律三重身份 |
+| 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长，铿锵玫瑰黄金一代 |
 
 ### 📘 教练手记（3本）
 
@@ -82,7 +83,7 @@ disable: false
 | What It Takes | Sarina Wiegman | `notes/what_it_takes_notes.md` | 荷兰→英格兰，包容性领导力 |
 | 米利西奇采访实录 | Ante Milicic | `notes/ante_milicic_interview_notes.md` | 执教理念、男女足差异、中国女足文化冲击、领导力哲学 |
 
-### 📜 综合历史（6本）
+### 📜 综合历史（5本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -91,7 +92,6 @@ disable: false
 | Champions of Women's Soccer | Ann Killion | `notes/champions_notes.md` | 22位传奇，FIFA梦之队 |
 | A Woman's Game | Suzanne Wrack | `notes/a_womans_game_notes.md` | 英国女足兴衰500年史，FA禁令与女权运动 |
 | Money, Power, Respect | Macaela MacKenzie | `notes/money_power_respect_notes.md` | 女性运动员重塑现代女性主义，薪酬/影响力/尊重 |
-| 风雨玫瑰 | 韩端 | `notes/han_duan_notes.md` | 中国前锋，体制内成长 |
 
 ### 📕 战术教学（3本）
 
@@ -239,4 +239,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-28 | WOSO_lib v2.8.4 — 删除 description 中的触发词列表*
+*最后更新：2026-05-28 | WOSO_lib v2.8.5 — 风雨玫瑰从「综合历史」移至「球员自传」，与静态站分类对齐*
