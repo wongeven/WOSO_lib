@@ -1,7 +1,7 @@
 ---
 name: WOSO_lib
 name_cn: 女足知识库
-description: "世界女足知识库，覆盖26本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。触发词：女足、女子足球、女足球员、女足教练、世界杯、球员自传、工作量、月经周期、米利西奇、Suzanne Wrack、Eniola Aluko、Briana Scurry、Alex Scott"
+description: "世界女足知识库，覆盖26本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。"
 category: sports
 tags:
   - women's football
@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.8.3"
+version: "2.8.4"
 shareable: true
 disable: false
 ---
@@ -239,4 +239,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-27 | WOSO_lib v2.8.3 — 示例对话从13条精简至9条*
+*最后更新：2026-05-28 | WOSO_lib v2.8.4 — 删除 description 中的触发词列表*
