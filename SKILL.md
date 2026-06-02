@@ -1,7 +1,7 @@
 ---
 name: WOSO_lib
 name_cn: 女足知识库
-description: "世界女足知识库，覆盖30本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。"
+description: "世界女足知识库，覆盖31本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。"
 category: sports
 tags:
   - women's football
@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.10.0"
+version: "2.11.0"
 shareable: true
 disable: false
 ---
@@ -25,7 +25,7 @@ disable: false
 
 ## 📚 概述
 
-本技能提供对 **28本全球女足经典专著 + 9份权威产业/科学报告 + 主教练采访实录** 精华内容的访问能力。
+本技能提供对 **31本全球女足经典专著 + 9份权威产业/科学报告 + 主教练采访实录** 精华内容的访问能力。
 
 涵盖范围：
 - 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo、Julie Ertz、Briana Scurry 等传奇
@@ -86,7 +86,7 @@ disable: false
 | The Vision of a Champion | Anson Dorrance & Gloria Averbuch | `notes/vision_of_a_champion_notes.md` | UNC 22冠王朝，竞争大熔炉(Competitive Cauldron)，"冠军的愿景"定义 |
 | 米利西奇采访实录 | Ante Milicic | `notes/ante_milicic_interview_notes.md` | 执教理念、男女足差异、中国女足文化冲击、领导力哲学 |
 
-### 📜 综合历史（6本）
+### 📜 综合历史（7本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -96,6 +96,7 @@ disable: false
 | Champions of Women's Soccer | Ann Killion | `notes/champions_notes.md` | 22位传奇，FIFA梦之队 |
 | A Woman's Game | Suzanne Wrack | `notes/a_womans_game_notes.md` | 英国女足兴衰500年史，FA禁令与女权运动 |
 | Money, Power, Respect | Macaela MacKenzie | `notes/money_power_respect_notes.md` | 女性运动员重塑现代女性主义，薪酬/影响力/尊重 |
+| Soccer, Women, Sexual Liberation | Fan Hong & J.A. Mangan | `notes/soccer_women_sexual_liberation_notes.md` | 全球15国女足发展比较史，霸权体育文化理论，中国铿锵玫瑰学术分析 |
 
 ### 📕 战术教学（3本）
 
@@ -167,6 +168,9 @@ disable: false
 | 询问**Briana Scurry/1999世界杯/门将位置/脑震荡** | `my_greatest_save_notes.md` |
 | 询问**Kristine Lilly/354场/USWNT最长效力/团队战术/TEAM框架** | `powerhouse_notes.md` |
 | 询问**Anson Dorrance/UNC女足/竞争大熔炉/冠军的愿景/青训哲学** | `vision_of_a_champion_notes.md` |
+| 询问**全球女足比较/各国女足发展史/霸权体育文化/中国女足学术分析/Sexual Liberation** | `soccer_women_sexual_liberation_notes.md` |
+| 询问**Donna de Varona/5M框架/Title IX/1999女足世界杯/WUSA/女足商业化** | `soccer_women_sexual_liberation_notes.md` |
+| 询问**非洲女足(尼日利亚/塞内加尔/南非)/巴西女足/韩国女足/印度女足/亚洲女足发展比较** | `soccer_women_sexual_liberation_notes.md` |
 
 ### 按球员
 
@@ -246,4 +250,4 @@ disable: false
 
 ---
 
-*最后更新：2026-05-28 | WOSO_lib v2.10.0 — 新增 Powerhouse (Kristine Lilly) + The Vision of a Champion (Anson Dorrance)*
+*最后更新：2026-06-02 | WOSO_lib v2.11.0 — 新增 Soccer, Women, Sexual Liberation (Fan Hong & J.A.Mangan)*
