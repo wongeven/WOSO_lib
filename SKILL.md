@@ -1,7 +1,7 @@
 ---
 name: WOSO_lib
 name_cn: 女足知识库
-description: "世界女足知识库，覆盖31本全球经典专著+9份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。"
+description: "世界女足知识库，覆盖33本全球经典专著+10份权威产业/科学报告精华内容+主教练采访实录，支持对话式查阅。涵盖美国、欧洲、亚洲顶级球员与教练的真实故事，以及球员工作量、体能分析、人口统计等前沿运动科学议题。触发词：女足、女子足球、女足球员、女足教练、世界杯、球员自传、工作量、月经周期、米利西奇"
 category: sports
 tags:
   - women's football
@@ -11,7 +11,7 @@ tags:
   - leadership
   - sports psychology
 author: Wang Yifan
-version: "2.11.0"
+version: "2.12.0"
 shareable: true
 disable: false
 ---
@@ -25,12 +25,12 @@ disable: false
 
 ## 📚 概述
 
-本技能提供对 **31本全球女足经典专著 + 9份权威产业/科学报告 + 主教练采访实录** 精华内容的访问能力。
+本技能提供对 **33本全球女足经典专著 + 10份权威产业/科学报告 + 主教练采访实录** 精华内容的访问能力。
 
 涵盖范围：
 - 🇺🇸 **美国**：Mia Hamm、Abby Wambach、Megan Rapinoe、Carli Lloyd、Hope Solo、Julie Ertz、Briana Scurry 等传奇
-- 🇪🇺 **欧洲**：Emma Hayes、Sarina Wiegman、Christine Sinclair、Leah Williamson、Beth Mead、Alex Scott、Eniola Aluko 等名帅与球星
-- 🌍 **全球**：Marta、孙雯 等各国代表人物
+- 🇪🇺 **欧洲**：Emma Hayes、Sarina Wiegman、Christine Sinclair、Leah Williamson、Beth Mead、Alex Scott、Eniola Aluko、Lily Parr 等名帅与球星
+- 🌍 **全球**：Marta、孙雯、Khalida Popal（阿富汗）等各国代表人物
 - 📜 **历史与社会学**：英国女足兴衰史（Suzanne Wrack）、女性主义与体育（Macaela MacKenzie）
 - 🇨🇳 **中国**：韩端、孙雯等中国女足传奇，2025-26现状调研报告
 - 📊 **产业数据**：球员工作量监控（2024/25）、全球联赛基准报告（FIFA/CIES）
@@ -56,7 +56,7 @@ disable: false
 
 > 分类标准：按内容类型分为 7 类，与静态网站 woso-library 保持一致
 
-### 📗 球员自传（16本）
+### 📗 球员自传（17本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -76,6 +76,7 @@ disable: false
 | Breakaway Beyond the Goal | Alex Morgan | `notes/breakaway_notes.md` | 青少年自传，ACL重伤后崛起，目标设定哲学 |
 | Alex Morgan (青少年传记) | Gail Terp / World Book | `notes/alex_morgan_terp_notes.md` | 第三人称青少年传记，奥运会头球绝杀 |
 | Powerhouse | Kristine Lilly | `notes/powerhouse_notes.md` | 354场纪录保持者，TEAM框架13条团队战术，从锋线到边后卫的转型 |
+| My Beautiful Sisters | Khalida Popal | `notes/my_beautiful_sisters_notes.md` | 阿富汗女足创始人，塔利班阴影下的地下足球革命，流亡与姐妹情谊 |
 
 ### 📘 教练手记（4本）
 
@@ -86,7 +87,7 @@ disable: false
 | The Vision of a Champion | Anson Dorrance & Gloria Averbuch | `notes/vision_of_a_champion_notes.md` | UNC 22冠王朝，竞争大熔炉(Competitive Cauldron)，"冠军的愿景"定义 |
 | 米利西奇采访实录 | Ante Milicic | `notes/ante_milicic_interview_notes.md` | 执教理念、男女足差异、中国女足文化冲击、领导力哲学 |
 
-### 📜 综合历史（7本）
+### 📜 综合历史（8本）
 
 | 书名 | 作者 | 笔记文件 | 核心主题 |
 |------|------|---------|---------|
@@ -97,6 +98,7 @@ disable: false
 | A Woman's Game | Suzanne Wrack | `notes/a_womans_game_notes.md` | 英国女足兴衰500年史，FA禁令与女权运动 |
 | Money, Power, Respect | Macaela MacKenzie | `notes/money_power_respect_notes.md` | 女性运动员重塑现代女性主义，薪酬/影响力/尊重 |
 | Soccer, Women, Sexual Liberation | Fan Hong & J.A. Mangan | `notes/soccer_women_sexual_liberation_notes.md` | 全球15国女足发展比较史，霸权体育文化理论，中国铿锵玫瑰学术分析 |
+| The Rise of the Lionesses | Flo Lloyd-Hughes | `notes/rise_of_the_lionesses_notes.md` | 英格兰女足127年通史，从Nettie Honeyball到2022欧洲杯夺冠，青少年读本 |
 
 ### 📕 战术教学（3本）
 
@@ -119,7 +121,7 @@ disable: false
 |------|------|---------|---------|
 | 女足观赛指南 | 综合整理 | `notes/watching_guide_notes.md` | 多层观赛视角（技术/战术/人物/团队），实用观赛清单 |
 
-### 📊 产业报告（9份）
+### 📊 产业报告（10份）
 
 | 报告名 | 机构 | 笔记文件 | 核心主题 |
 |--------|------|---------|---------|
@@ -132,6 +134,7 @@ disable: false
 | UEFA 2025欧洲杯体能分析 | UEFA | `notes/uefa_euro2025_physical_notes.md` | 跑动需求、峰值体能、位置分析 |
 | UEFA女子足球战略2024-30 | UEFA | `notes/uefa_strategy_2024_30_notes.md` | 可持续发展、2030目标 |
 | 月经周期知识问卷研究 + 共识声明 | Scandinavian J. / UEFA | `notes/menstrual_questionnaire_notes.md` + `notes/uefa_menstrual_consensus_notes.md` | 月经知识评估工具 + Delphi专家共识：追踪方法、伦理边界 |
+| AFC 女子冠军联赛2024/25技术报告 | AFC | `notes/afc_wcl_2025_technical_report_notes.md` | 首届 AFC WCL 技术报告，东亚统治格局，武汉江大历史首冠，亚洲女足俱乐部基准 |
 
 ---
 
